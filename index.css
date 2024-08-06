@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+.Main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.first{
+    width: 500px;
+    margin-bottom: 100px;
+}
+.first h1{
+    color: #0866FF;
+    font-size: 55px;
+    font-weight: bolder;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;   
+}
+.first h3{
+    font-size: 30px; 
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;   
+    font-weight: lighter;
+}
+.second{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    padding: 10px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    height: 400px;
+    box-shadow: 1px 1px 18px #888888;
+}
+.second form input{
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 375px;
+}
+.input1{
+    height: 30px;
+    padding: 10px;
+    border-radius: 6px;
+}
+.inp1{
+   margin-left: 10px;
+   background-color: #0866FF;
+   color: aliceblue;
+   height: 50px;
+   border-radius: 7px;
+   font-size: 20px;
+   font-weight: bolder;
+   
+}
+.inp2{
+    margin-left: 10px;
+    background-color: #30c52b;
+    color: aliceblue;
+    height: 50px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 20;
+    size: 20px;
+
+}
+.aa{
+    text-align: center;
+    justify-content: center;
+    margin: 125px;
+    color: #0866FF;
+    
+}
+p{
+    padding-left: 50px;
+}
+a{
+    text-decoration-color: hsla(0, 100%, 50%, 0.1);
+    color: black;
+    font-weight: bold ;
+}
+
